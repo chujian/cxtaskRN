@@ -1,0 +1,25 @@
+{
+  "name": "cxtaskAPP",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "jpush-react-native": "0.0.5",
+    "react": "15.0.2",
+    "react-native": "^0.26.3",
+    "react-native-navbar": "^1.5.0",
+    "react-native-swipe-list-view": "^0.1.8",
+    "react-native-update": "^1.0.5",
+    "react-native-vector-icons": "^2.0.3",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.1",
+    "remote-redux-devtools": "^0.3.3"
+  }
+}

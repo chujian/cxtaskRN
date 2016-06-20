@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-d34ce9272df756ba1ecf4d1bf71574c94958ac07.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-8b44fb14e6be8fbfa3ec56a41cf884931a509e0f.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-bd4e4d0d7d68b55e96834f0f44f7fbac0b8a87fb.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/cxtaskAPP/jpush-react-native/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d550731b262cf5f0f2e45a435dc1e1b838db55cb">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-967e68485c255c1fb17dae8cf12953a646b81bbe.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-2435cba9aa66f365e75bab9f657ed788de57e94e.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-0ca64102424e9c6532d2bc1c4ce678284ba2e556.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/cxtaskAPP/jpush-react-native/unspecified/jars/libs/jpush-android-2.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f26f97f6d6c7cb02247e1ec35034732f234badb">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/jpush-android-2.1.5-a8a172c446040dd840cb4ff687545a020c5ef02e.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-7648034277d2af6d1dd93ac5711ba90f8f8c7c2d.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-92d407375e84a4853e0d4edb91adf7878d9b1099.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/cxtaskAPP/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5a34a136b7d24f2e50dd5109e53c331e95aab39">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-1fa3eba26c81e3ba9c46e867fa5760ed9468b024.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-104571bd453466263e2f04fa591bff8d28f221c7.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-3150ae215266491c0c6c778eb575737251ab5a49.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-589c498193d1721bc42e0613aa5656cea30ff782.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-efd2a97043616c6551d681a39af98c06f3113e79.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-276645d058d76263ef7af5e2c4df04ff162a61de.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-71c4fdc569e6f9a19f5387001366ad2243a1a000.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/cxtaskAPP/react-native-update/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c19e2392eb7d6455c9970398cf64ab231f053858">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/release/classes-0ecad612b3ec39404848c18e35eda8210d907e70.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-7c743cb3df7f65e1b9a7781bc09a8f136ae1be72.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-ad7d658037c013f820af99464040eda26937f438.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-5c0baa7b28b0545e5766a1efbc3ed27095913cd0.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5b02b22cd03cf38474f894690ca5d5396b698f">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/classes-deeba7c03d9d03618b44d54eb34f3a54df41158c.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-a7dbe2f6e948534a807c2be659d8477f156ca792.jar" />
+    </item>
+    <item
+        jar="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b48c2ceb4b4563dfe99b5ac7638b15d4052e45fb">
+        <dex dex="/Users/chujian/Project/cxtaskAPP/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-3f3e2345c64cbac85f3d455b04c40dddc7d5ec9c.jar" />
+    </item>
+
+</items>
